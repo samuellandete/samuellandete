@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuellandete
 - 👀 I’m interested in education, Computer Science
-- 🌱 I’m currently learning javascript, Swift
+- 🌱 I’m currently learning javascript and Java
 - 💞️ I’m looking to collaborate on teaching Computer Science
 - 📫 samuellandete@asvalencia.org
 
